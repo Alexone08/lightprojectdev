@@ -1,4 +1,4 @@
-Version</h1>
+</h1>
 
 <h3 align="center">Hi i'm Alex and this is my first and final bot, Light.</h3>
 
